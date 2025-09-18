@@ -164,25 +164,7 @@ prompt_template = PromptTemplate.from_template(
 3. **처리**: LangChain + Upstage Solar로 요약
 4. **제공**: Gradio/Reflex 인터페이스로 사용자에게 전달
 
-## 🤝 기여하기
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
-
-## 🔗 관련 링크
-
-- [Upstage Solar 모델](https://upstage.ai/)
-- [LangChain 문서](https://python.langchain.com/)
-- [Reflex 문서](https://reflex.dev/)
-- [Gradio 문서](https://gradio.app/)
-- [AWS SageMaker JumpStart](https://aws.amazon.com/sagemaker/jumpstart/)
 ---
 
 **MorningBrief** - AI로 만드는 스마트한 주식 뉴스 브리핑 시스템 🚀
